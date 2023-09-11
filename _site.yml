@@ -1,0 +1,65 @@
+name: "kim-hochstedler"
+output_dir: "docs"
+navbar:
+  title: "Kim Hochstedler Webb"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Teaching Philosophy"
+      href: philosophy.html
+    - text: "Experience"
+      menu: 
+        - text: "Statistical Methods I"
+          href: btry6010.html
+        - text: "Biological Statistics II"
+          href: btry3020.html
+        - text: "Introductory Statistics"
+          href: ilr2100.html
+        - text: "Hungry in America - Building Skills to Feed Communities"
+          href: nutrition.html
+    - text: "Training and Development"
+      menu: 
+        - text: "Effective Teaching in Public Health"
+          href: ph803.html
+        - text: "Teaching and Learning in the Diverse Classroom"
+          href: tldc.html
+        - text: "Ivy+ Teaching Transformations Summit"
+          href: ivy.html
+    - text: "Fellowship"
+      menu: 
+        - text: "Cornell Center for Teaching Innovation"
+          href: cti.html
+        - text: "Graduate Teaching Fellow"
+          href: cti1.html
+        - text: "Lead Graduate Teaching Fellow"
+          href: cti2.html
+        - text: "Senior Lead Graduate Teaching Fellow"
+          href: cti3.html
+    - text: "Program Development"
+      menu: 
+        - text: "Advanced Graduate Teaching Cohort"
+          href: agtc.html
+    - text: "Courses"
+      menu: 
+        - text: "Course Development"
+          href: course_devel.html
+        - text: "Statistical Graphics and Communication"
+          href: stat_graphics.html
+        - text: "Statistics for Future Presidents"
+          href: stat4prez.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact_info.html
+    - icon: fa-github fa-lg
+      href: https://github.com/kimberlywebb
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/_kim_webb_
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/kim-h-webb/
+    - icon: fa-google fa-lg
+      href: https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en
+      
+output:
+  html_document:
+    theme: journal
+    css: style.css

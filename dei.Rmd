@@ -1,0 +1,46 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'dei.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>DEI Efforts</h1> </center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<p style="text-align: center;">
+<span style="text-align: center; display: inline-block; color: red" class="fa fa-4x fa-message" aria-hidden="true"></span>
+<span class="my-text"></span>
+</p>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+
+In higher education, I believe the practice of diversity, equity, and inclusion (DEI) is characterized by the **empowerment of students, faculty, and staff from all identities to achieve their professional goals**. As a scholar, my goal is to help my community flourish through my research, teaching, and service. I view DEI work as a continuous process. Thus, my efforts in DEI center on creating **far-reaching and self-sustaining programming** that can positively impact my colleagues and students through and beyond my career. 
+
+I contribute to the statistics, biostatistics, and teaching community through the following activities: 
+
+-   Research contributions in algorithmic fairness
+-   Co-creating and co-facilitating the ["Advanced Graduate Teaching Cohort"](https://teaching.cornell.edu/advanced-graduate-teaching-cohort), a community of early-career TAs devoted to inclusive teaching practices
+-   Co-founding the [Statistics Graduate Society](https://sgs.stat.cornell.edu/) at Cornell University
+-   Co-creating a Peer Mentorship program for first-year Cornell PhD students in Statistics
+    
+</div>
+<div style="margin-bottom:30px;">
+</div>
+
+<p style="text-align: center;">
+<span style="text-align: center; display: inline-block;" class="fa fa-2x fa-people-group" aria-hidden="true"></span>
+<span class="my-text">[Statement of Contributions to Diversity, Equity, and Inclusion](https://raw.github.com/kimhochstedler/documents/master/KAH_Webb_DiversityStatement.pdf)</span>
+</p>

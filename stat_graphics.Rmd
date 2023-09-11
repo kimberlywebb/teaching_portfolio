@@ -1,0 +1,31 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'stat_graphics.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Statistical Graphics and Communication
+
+**Course Level:** Graduate or advanced undergraduate    
+**Number of Students:** $\sim$ 30 - 60 
+
+</div>
+
+\noindent
+**Course Description:** There are many ways to graphically display quantitative information that help biostatisticians and clinical collaborators understand the conclusions drawn from data and statistical models. This course will introduce first- and second-year graduate students in biostatistics to state-of-the-art graphical displays and appropriate ways to communicate statistical results. Students will learn how to create graphical displays of data in RStudio and how to compile those displays into professional reports. Through in-class practice, a midterm, and a final project, students will also develop skills to critique and speak about graphics in a statistically sound manner. Each student will be required to complete a midterm and projects using graphical methods to understand data from real health science problems. 
+\vspace{1em}
+
+\noindent
+**Course Components:** This class is designed to meet twice a week, for interactive lectures on statistical methodologies. The class will also include for smaller lab sections once a week. Typically, these lab sections of code demonstrations and problem-solving related to the previous lecture's content. Students will be assessed via weekly lab assignments completed in R as well as a lab exam, a poster presentation, and an oral presentation of an R Shiny application. 
+
+\noindent
+**Sample materials:**  
+
+- "Statistical Graphics and Communication" proposed [course syllabus](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/StatGraphics_Syllabus.pdf?raw=true), developed Fall 2019

@@ -1,0 +1,31 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'stat4prez.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Statistics for Future Presidents
+
+**Course Level:** Introductory undergraduate     
+**Number of Students:** $\sim$ 30 - 80 
+
+</div>
+
+\noindent
+**Course Description:** Numerical analysis and statistical claims are present in much of the media, journalism, and research that we consume. This course is designed to introduce undergraduates in humanities disciplines to the general principles of statistical reasoning. Students will learn about common statistical methods, study designs, and data presentation techniques. Importantly, students will learn how to evaluate the appropriateness of a variety of statistical analyses and assumptions for real-world questions. Each student will be required to complete projects critiquing popular news reporting of statistical results. The focus of this course will be on \textit{statistical literacy} (reading, writing, and speaking about statistics) rather than statistical computation (use of software packages, data analysis, etc.). As such, students who anticipate being consumers, but not practitioners, of statistical analyses should enroll in this course. 
+\vspace{1em}
+
+\noindent
+**Course Components:** This class is designed to meet twice a week, for interactive lectures on quantitative methods and data literacy. The class will also include for smaller lab sections once a week. Typically, these lab sections will consist of problem-solving and case studies related to the previous lecture's content. Students will be assessed via mini assignments (every 2-3 weeks), a "statistical fallacies" midterm project, and a "statistics in the wild" final project. Students will also participate in completion-based oral evaluations of statistical claims and graphics throughout the semester.  
+
+\noindent
+**Sample materials:**  
+
+- "Statistics for Future Presidents" proposed [course syllabus](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/Stats4President_Syllabus.pdf?raw=true), developed Spring 2021

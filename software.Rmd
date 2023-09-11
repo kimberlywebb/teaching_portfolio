@@ -1,0 +1,52 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'software.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>Software</h1> </center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<p style="text-align: center;">
+<span style="text-align: center; display: inline-block; color: red" class="fa fa-4x fa-laptop" aria-hidden="true"></span>
+<span class="my-text"></span>
+</p>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+
+## R packages
+
+<center>
+<img align="right" src="hex_stickers.png" style="width:50%">
+</center>
+
+- [COMBO:](https://kimberlywebb.github.io/COMBO/) COMBO provides a set of functions for the analysis of regression models with binary outcome misclassification. 
+  - **COMBO:** **CO**rrecting **M**isclassified **B**inary **O**utcomes.
+- [rddapp:](https://www.felixthoemmes.com/rddapp/) The rddapp package provides a set of functions for the analysis of the regression-discontinuity design (RDD). The three main parts are: estimation of effects of interest, power analysis, and assumption checks.
+- [cornellcolors:](https://github.com/kimberlywebb/cornellcolors) R package with color palettes matching Cornell University's official branding and with color palettes inspired by iconic buildings at Cornell University.
+- [carnegiecolors:](https://github.com/kimberlywebb/carnegiecolors) R package with color palettes matching Carnegie Mellon University's official branding.
+- [maizeandblue:](https://github.com/kimberlywebb/maizeandblue) R package with color palettes matching the University of Michigan's official branding and with color palettes inspired by local eateries in Ann Arbor, Michigan. 
+
+## Web applications
+
+- [Pneumonitis Prediction App:](https://ppa.mroqc.org/) Web-based application to estimate the risk of developing pneumonitis in lung cancer patients, based on treatment and clinical characteristics. Designed to aid in radiation treatment planning.
+- [Heavy-Tailed Distribution Expected Value Estimation Simulator:](https://kimhochstedler.shinyapps.io/heavytails/) Web-based application that runs simulations comparing the median-of-means and empirical mean estimators in heavy-tailed distributions.
+- [Tswift in an Rscript:](https://kimhochstedler.shinyapps.io/tswizzle/) Web-based application to analyze components of Taylor Swift's top songs. Developed for a tutorial on R Shiny for beginners that I presented on December 7th, 2021 (materials available upon request).
+
+## Tutorials
+
+- A template and brief tutorial for creating websites using GitHub Pages and R is available on my [GitHub page](https://github.com/kimberlywebb/website_template).
+- Materials for my R Shiny tutorial (using [this web application](https://kimhochstedler.shinyapps.io/tswizzle/)) are available upon request.

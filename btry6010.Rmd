@@ -1,0 +1,53 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'btry6010.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Statistical Methods I, Cornell University
+
+**Role:** Graduate Teaching Assistant  
+**Instructor:** [Sumanta Basu, Ph.D.](https://stat.cornell.edu/people/faculty/sumanta-basu)  
+**Term:** Fall 2020   
+**Course Level:** Graduate  
+**Number of Students:** $\sim$ 110  
+
+</div>
+
+\noindent
+**Course Description:** Students will learn to develop and use statistical methods to analyze data arising from a wide variety of applications. Students should learn to apply methodologies which including descriptive statistics, point and interval estimation, hypothesis testing, inference for a single population, comparisons between two populations, one- and two-way analysis of variance, comparisons among population means, analysis of categorical data, and correlation and regression analysis.
+
+\vspace{1em}
+
+\noindent
+**Course Components:** This class met twice a week, virtually, for lectures on statistical methodologies. The class also met for smaller, virtual, lab sections once a week. Typically, these lab sections consisted of code demonstrations and problem-solving related to the previous lecture's content. Students were assessed via weekly homework assignments completed in R as well as two take-home midterm examinations and a take-home final examination. Students also completed a data analysis project on a topic relevant to their own research. 
+
+\vspace{1em}
+
+\noindent
+**My role:** As a graduate teaching assistant, I led one lab section per week for approximately 30 students. In these labs, I developed lessons demonstrating code and problem-solving strategies in R, based on provided topics that were recently covered in lecture. For each lab topic, I developed supplementary slides where students filled-in definitions, equations, and core concepts throughout the lab, leading greater engagement and understanding of the material than coding alone.  I also graded student problem sets, exams, and data analysis projects. In addition, I monitored student questions on Piazza (an anonymous question and answer platform) and hosted office hours once a week.
+
+\noindent
+**Selected lessons presented:** Properties of random variables, confidence intervals, hypothesis testing, categorical data analysis
+
+\vspace{1em}
+
+\noindent
+**Student evaluations:** Anonymous reviews were elicited from students at mid-semester and at the end of the semester. Reviews were obtained for the entire course and for individual lab sections. My lab section evaluations are provided below for mid-semester and then the end of the semester, respectively. 
+
+\noindent
+**End-of-semester overall teaching rating:** 4.89 / 5.0
+
+\noindent
+**Sample materials:**  
+
+- [Slides from a "Categorical Data Analysis" lab that I developed](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/BTRY6010_CDA_Lab.pdf?raw=true)
+- [Mid-semester student evaluations](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/BTRY6010_Midterm_Evals.pdf?raw=true)
+- [Final student evaluations](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/BTRY6010_Final_Evals.pdf?raw=true)

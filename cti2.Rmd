@@ -1,0 +1,35 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'cti2.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Lead Graduate Teaching Fellow, Cornell University
+
+**Term:** 2022 - 2023    
+
+**My role:** Successful Graduate Teaching Fellows are invited to return to the program for a second year as Lead Graduate Teaching Fellows. In this role, I completed all of the responsibilities associated with my previous role as a Graduate Teaching Fellow. In addition, I had the following responsibilities:
+
+- Lead discussions for three biweekly CTI Fellows meetings.   
+- Prepare for and attend biweekly CTI Lead Fellows meetings.    
+- Mentor a new Graduate Teaching Fellow in preparing for two teaching workshops for graduate students and postdocs at Cornell.    
+- Coordinate with peers to ensure that all four workshops within a given "Institute" are cohesive and culminate in an artifact for participants.     
+- Facilitate a "microteaching" lesson for peers, including providing constructive feedback.  
+- Coordinate and attend smaller working group meetings, focused on professional development topics.  
+- Review draft workshops from Fellows in my institute or conference group.     
+\vspace{1em}
+
+\noindent
+**Workshops created and facilitated:** "Supporting student learning as a TA", "Essentials of teaching: Peer review", "Teaching portfolio institute: Peer review", "Backward course design: Developing learning outcomes", "Course design: Peer review", "Inclusive teaching strategies in the humanities"
+
+\noindent
+**Sample materials:** I designed a Google Jamboard activity for the "Backward course design: Developing learning outcomes" workshop. In this activity, participants were presented with a learning outcomes and associated assessment ideas. Together with breakout room groups, the participants identified which assessments *did not align* with the learning outcome. To indicate their choices, the group could move red arrows to point to the assessment option that they selected. Upon completion of this Jamboard activity, we debriefed with a larger group discussion emphasizing the alignment of learning outcomes and assessment strategies. 
+
+- [Completed Google Jamboard Activity](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/CourseDesign_Jamboard.pdf?raw=true)

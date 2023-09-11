@@ -1,0 +1,31 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+layout: default
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>Kimberly A. Hochstedler Webb</h1> </center>
+
+<center>
+Ph.D. Candidate in [Statistics at Cornell University](https://stat.cornell.edu/)  
+**Pronouns:** she/her
+
+</center>
+
+#### Teaching Portfolio
+Please find the following components of my teaching portfolio in the tabs on this webpage: 
+
+- Teaching philosophy
+- Teaching experience
+- Teaching training and development
+- Graduate teaching fellowship
+- Program development
+- Course development

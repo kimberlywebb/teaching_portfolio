@@ -1,0 +1,38 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'ph803.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Effective Teaching in Public Health, University of Michigan
+
+**Role:** Student   
+**Instructor:** [Olivia S. Anderson, Ph.D.](https://sph.umich.edu/faculty-profiles/anderson-olivia.html)   
+**Term:** Fall 2019     
+**Course Level:** Graduate  
+
+</div>
+
+\noindent
+**Course Description:** Students will engage in a community of graduate students to explore/prepare for a faculty career, focusing on teaching at a university-level specifically in the public health field. Students will immerse in literature, discussion, and workshops on state-of-the-art pedagogical techniques. Course tangibles include: teaching philosophy statement, course syllabus, and teaching demonstration.
+
+\vspace{1em}
+
+\noindent
+**Course Components:** This course met weekly, in-person for discussion-based lessons on effective teaching strategies for public health classes. Course competencies were evaluated through participation in class sessions, including providing feedback to peers on in-class activities and multi-week projects. Assessments also included a teaching philosophy, course syllabus, Scholarship of Teaching and Learning (SoTL) presentation, mid-term reflection, teaching method speed talk, and teaching demonstration. 
+
+
+
+\noindent
+**Sample materials:**  
+
+- [Teaching demonstration slides](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/PH803_TeachingDemo.pdf?raw=true)
+- [Teaching demonstration feedback (from the professor)](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/PH803_TeachingDemo_ProfEval.pdf?raw=true)
+- [Teaching demonstration peer feedback](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/PH803_TeachingDemo_PeerEvals.pdf?raw=true)

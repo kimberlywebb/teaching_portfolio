@@ -1,0 +1,40 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'ilr2100.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Introductory Statistics, Cornell University
+
+**Role:** Graduate Teaching Assistant  
+**Instructor:** [Thomas DiCiccio, Ph.D.](https://www.ilr.cornell.edu/people/thomas-diciccio)  
+**Term:** January 2022, Summer 2022, January 2023, Summer 2023    
+**Course Level:** Undergraduate  
+**Number of Students:** 75 - 125  
+
+</div>
+
+\noindent
+**Course Description:** Statistics is about understanding the world through data. We are surrounded by data, so there is a lot to understand. This course covers data exploration and display, data gathering methods, probability, and statistical inference methods through contingency tables and linear regression. The emphasis is on thinking scientifically, understanding what is commonly done with data (and doing some of it for yourself), and laying a foundation for further study. Students learn to use statistical software and simulation tools to discover fundamental results. They use computers regularly; the test includes both multimedia materials and a software package. This course does not focus on data from any particular discipline, but will use real-world examples from a wide variety of disciplines and current events.
+
+\vspace{1em}
+
+\noindent
+**Course Components:** This class met daily, virtually, for lectures on statistical methodologies. Students were assessed via three take-home exams. 
+
+\vspace{1em}
+
+\noindent
+**My role:** As a graduate teaching assistant, I graded take-home exams and led daily office hour sessions. 
+
+\vspace{1em}
+
+\noindent
+**Student evaluations:** Student evaluations were not collected for this course. 

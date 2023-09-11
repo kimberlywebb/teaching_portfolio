@@ -1,0 +1,51 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'btry3020.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Biological Statistics II, Cornell University
+
+**Role:** Graduate Teaching Assistant  
+**Instructor:** [Jeremy Entner, Ph.D.](https://stat.cornell.edu/people/faculty/jeremy-entner)  
+**Term:** Spring 2021   
+**Course Level:** Undergraduate  
+**Number of Students:** $\sim$ 75  
+
+</div>
+
+\noindent
+**Course Description:** Students will learn to apply linear statistical methods to quantitative problems addressed in biological and environmental research. Methods include linear regression, inference, model assumption evaluation, the likelihood approach, matrix formulation, generalized linear models, single-factor and multifactor analysis of variance (ANOVA), and a brief foray into nonlinear modeling. Students will carry out applied analysis in a statistical computing environment.
+
+\vspace{1em}
+
+\noindent
+**Course Components:** This class met twice a week, virtually, for lectures on statistical methodologies. The class also met for smaller, virtual, lab sections once a week. Typically, these lab sections consisted of code demonstrations and problem-solving related to the previous lecture's content. Students were assessed via weekly homework assignments completed in R as well as two take-home midterm examinations and a take-home final examination. 
+
+\vspace{1em}
+
+\noindent
+**My role:** As a graduate teaching assistant, I led one lab section per week for approximately 30 students. In these labs, I gave lessons demonstrating code and problem-solving strategies in R, based on provided topics that were recently covered in lecture. I also recorded a video of each lab section for asynchronous learners. I graded student problem sets and exams using rubrics that I developed. In addition, I hosted office hours once a week.
+
+\noindent
+**Selected lessons presented:** Linear regression in R, building regression models, performing multiple hypothesis tests
+
+\vspace{1em}
+
+\noindent
+**Student evaluations:** Anonymous reviews were elicited from students at the end of the semester. Reviews were obtained for the entire course and for individual lab sections. My final lab section evaluations are provided below. 
+
+\noindent
+**End-of-semester overall teaching rating:** 4.82 / 5.0
+
+\noindent
+**Sample materials:**  
+
+- [Final student evaluations](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/BTRY3020_FinalEvals.pdf?raw=true)

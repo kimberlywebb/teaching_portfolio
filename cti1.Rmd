@@ -1,0 +1,36 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'cti1.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Graduate Teaching Fellow, Cornell University
+
+**Term:** 2021 - 2022    
+
+**My role:** As a Graduate Teaching Fellow, I had the following responsibilities:
+
+- Attend CTI Fellows training in the Fall and Spring.  
+- Prepare for and attend biweekly CTI Fellows meetings.  
+- Prepare and present two teaching workshops for graduate students and postdocs at Cornell.  
+- Facilitate a University-Wide teaching conference.  
+- Complete the online [Teaching and Learning in the Diverse Classroom MOOC](https://teaching.cornell.edu/tldc-mooc) and participate in associated group discussions.   
+- Conduct peer workshop observations.   
+- Prepare and present a "microteaching" lesson to peers.    
+- Serve as a CTI Liaison within my department.   
+\vspace{1em}
+
+\noindent
+**Workshops created and facilitated:** "Effective grading and feedback", "Essentials of teaching: Peer review", "Exploring innovative teaching in STEM"
+
+\noindent
+**Sample materials:** 
+
+- [Slides](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/U-Wide_InnovativeTeachingSTEM.pdf?raw=true) and a [Google Jamboard activity](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/U-Wide_Jamboard.pdf?raw=true) from the "Exploring innovative teaching in STEM" workshop. 

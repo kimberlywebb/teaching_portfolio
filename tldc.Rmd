@@ -1,0 +1,54 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'tldc.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Teaching and Learning in the Diverse Classroom, Cornell University
+
+### Student
+
+**Role:** Student    
+**Term:** Fall 2021    
+
+</div>
+
+\noindent
+**Course Description:** U.S.-based and higher education-centered, the [Teaching \& Learning in the Diverse Classroom MOOC](https://teaching.cornell.edu/tldc-mooc) is a self-paced online course for anyone with teaching responsibilities, at any level of diversity expertise. Modules explore strategies for inclusive course design, social identity and self-reflection, and pedagogical practices that effectively support student engagement and a sense of belonging across difference.
+
+\vspace{1em}
+
+\noindent
+**Course Components:** This was an asychronous course comprised of five modules. Course participation was evaluated in group discussions within [Cornell's Center for Teaching Innovation Graduate Teaching Fellows Program](https://teaching.cornell.edu/cti-graduate-teaching-fellowship).
+
+
+### Discussion Facilitator
+
+**Role:** Facilitator    
+**Term:** Fall 2022, Spring 2024    
+
+</div>
+
+\noindent
+**Course Description and Components:** Same as above.
+
+\vspace{1em}
+
+\noindent
+**My role:** As a discussion facilitator, I created discussion questions pertaining to modules from the course. Within a meeting of the [Center for Teaching Innovation Graduate Teaching Fellows](https://teaching.cornell.edu/cti-graduate-teaching-fellowship), I led small groups through the discussion questions and facilitated a large group discussion.
+
+\vspace{1em}
+
+\noindent
+**Sample materials:** My discussion questions for a course module entitled "Institutional Change" are provided below:   
+
+1. Think of a diversity, equity, or inclusive teaching initiative you have seen at Cornell that operates across multiple departments, an entire college, or the university as a whole (Examples: DEI offices in a college, Belonging at Cornell, Diversity Programs in Engineering, etc.). What are the **challenges** and **benefits** of these broader initiatives?  
+2. Consider the same program(s) as in question #1. How do you think the impact of these programs can be **improved** or **maintained** in the future?   
+3. After this course, what do you want to continue to learn more about?

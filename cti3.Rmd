@@ -1,0 +1,37 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'cti3.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Senior Lead Graduate Teaching Fellow, Cornell University
+
+**Term:** 2023 - 2024    
+
+**My role:** Each year, one Lead Graduate Teaching Fellow is invited to return to the program in their third year as the Senior Lead Teaching Fellow. In this role, I will complete all of the responsibilities associated with my previous role as a Lead Graduate Teaching Fellow. In addition, I have the following responsibilities:
+
+- Lead an information session for the CTI Fellows program.   
+- Serve on the CTI Fellows selection committee (review applications and conduct interviews for all applicants).    
+- Plan and facilitate CTI Fellows training in the Fall and Spring.    
+- Plan the [graduate student and postdoctoral scholar teaching workshop program](https://teaching.cornell.edu/get-set-program).       
+- Lead biweekly CTI Fellows meetings.  
+- Lead biweekly CTI Lead Fellows meetings.  
+- Review draft workshops from all Fellows.   
+- Coordinate all communication and announcements within the CTI Fellows group.  
+- Coordinate quarterly newsletters for the entire teaching community at Cornell.  
+\vspace{1em}
+
+\noindent
+**Workshops created and facilitated:** "Steps to developing a strong workshop", "Roles and responsibilities of CTI Fellows", "Role of TAs in cultivating an inclusive classroom", "Effective grading and feedback", "Essentials of teaching: Peer review"
+
+\noindent
+**Sample materials:** I created a workshop on the "Roles and responsibilities of CTI Fellows" as part of the Fall 2023 CTI Fellows training. The workshop included a "jigsaw" group activity, where Fellows first learned about a new topic from a Lead Fellow, and then shared their knowledge with a new group. The jigsaw activity worksheet is provided below. 
+
+- [Roles and responsibilities of CTI Graduate Teaching Fellows jigsaw activity](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/CourseDesign_Jamboard.pdf?raw=true)

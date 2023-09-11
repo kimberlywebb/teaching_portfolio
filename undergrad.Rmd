@@ -1,0 +1,64 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'undergrad.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>Undergraduate Education</h1> </center>
+
+<div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center>
+<img src="cmu.png">
+</center>
+
+<div>
+<div style="margin-bottom:20px;">
+</div>
+
+    
+## Bachelors of Science: Statistics and Psychology 
+
+Carnegie Mellon University, Dietrich College of Humanities and Social Sciences, Pittsburgh, PA
+
+
+- **Graduated:** May 2018   
+- [Science and Humanities Scholars Program](https://www.cmu.edu/shs/) (no longer offered)  
+- **GPA:** 4.00   
+- Phi Beta Kappa  
+- **Undergraduate Thesis**: "Self-Disclosure among Emerging Adults with Depression and/or Anxiety"    
+- **Thesis Advisor**: [Dr. Vicki Helgeson](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/helgeson-vicki.html)
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+## Tips for Carnegie Mellon students in statistics or psychology
+
+- Get started in research through the [Dietrich College Research Training Program](https://www.cmu.edu/dietrich/students/undergraduate/programs/research-training-program.html)   
+- Apply for [SURF](https://www.cmu.edu/uro/summer%20research%20fellowships/SURF/) and [SURG](https://www.cmu.edu/uro/research%20grants/SURG/index.html) grants with the help of a faculty mentor.    
+- Take [36-315](http://www.stat.cmu.edu/academics/courselist): Statistical Graphics and Visualization.   
+    + This was one of the most useful classes I took, both for interships and graduate school!   
+    + Become familiar with [dplyr](https://dplyr.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), and [R Shiny](https://shiny.rstudio.com/) even if you do not take 36-315.     
+- Write your name in [color](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) on all your homework assignments so that you can find it quickly when professors hand homework back in a big pile at the end of class.     
+- Make friends with a student a year or two above you in your program.
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+## Articles and News
+
+- [A student feature](https://www.cmu.edu/dietrich/news/news-stories/2018/may/kim-hochstedler.html) from graduation
+- [Postgraduate plans](https://www.uaasports.info/sports/wswimdive/2017-18/releases/hochstedlerpgscholarship) and scholarship
+
+

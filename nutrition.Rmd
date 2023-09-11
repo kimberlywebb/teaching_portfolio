@@ -1,0 +1,41 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'nutrition.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Hungry in America - Building Skills to Feed Communities, University of Michigan
+
+**Role:** Course Designer   
+**Instructors:** [Kate Bauer, Ph.D.](https://sph.umich.edu/faculty-profiles/bauer-kate.html) and [Susan Aaronson, M.A., R.D.](https://sph.umich.edu/faculty-profiles/aaronson-susan.html)   
+**Term:** Spring 2020   
+**Course Level:** Undergraduate  
+
+</div>
+
+\noindent
+**Course Description:** Food insecurity, or a lack of consistent access to enough food for an active, healthy life, affects 1 in 8 Americans, and nearly 1 in 3 University of Michigan students. Food insecurity is caused by the intersection of a wide range of factors, from personal cooking skills to neighborhood food access to federal food policies. For this reason, fighting food insecurity in the US requires advocates with diverse skills, knowledge, and perspectives working together. This course seeks to provide students at the University of Michigan with these skills, knowledge, and perspectives, allowing them to become leaders to improve their own health and wellbeing and that of their communities and nationwide. To accomplish this, the course will integrate community visits; in-classroom, hands-on activities; and instructor-guided seminars to help students understand the experience and impacts of food insecurity across critical life stages of development (children, young adults, seniors).
+
+\vspace{1em}
+
+\noindent
+**Course Components:** This class once a week for interactive and innovative lessons on food insecurity, with a particular focus on communities near the University of Michigan. In addition to traditional class meetings, students also participated in visits to relevant community centers including local grocery stores and the on-campus food pantry.
+
+\vspace{1em}
+
+\noindent
+**My role:** As a course designer, I incorporated existing assignments and course materials into a comprehensive online learning platform using Canvas. My job was to ensure all materials and assignments contributed to course goals, while developing user-friendly webpages for each course meeting. 
+
+
+\noindent
+**Sample materials:**  
+
+- [Canvas site homepage](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/PUBH309_HomePage.pdf?raw=true)
+- [Sample daily course Canvas page](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/PUBH309_SamplePage_2020-02-04.pdf?raw=true)

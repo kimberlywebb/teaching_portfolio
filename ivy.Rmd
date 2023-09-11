@@ -1,0 +1,22 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'ivy.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Ivy+ Teaching Transformations Summit
+
+**Role:** Participant    
+**Term:** May 2022, May 2023    
+
+</div>
+
+\noindent
+**Summit Description:** The Teaching Transformations Summit is a yearly gathering of graduate students across Ivy Plus institutions who are especially committed to improving the support, discourse, and practice of pedagogy in higher education. Each year, Cornell sends a select group to share teaching approaches and engage in a series of frank and generative discussions with colleagues at other institutions. The summit is a unique chance to form national connections with graduate students actively working to transform the academy through teaching development.

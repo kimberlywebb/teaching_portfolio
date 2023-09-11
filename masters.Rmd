@@ -1,0 +1,51 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'masters.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>Graduate Education - Masters</h1> </center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center>
+<img src="sph.png" style="width:60%">
+</center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+## Master of Science: Biostatistics
+The University of Michigan, School of Public Health, Ann Arbor, Michigan
+
+- **Graduated:** May 2020    
+- **GPA:** 4.00
+- Richard G. Cornell Fellowship recipient for outstanding academic performance
+- **Research Assitantship Advisor:** [Dr. Matthew Schipper](https://sph.umich.edu/faculty-profiles/schipper-matthew.html)  
+- **Research and Academic Advisors:** [Dr. Kelley Kidwell](https://sph.umich.edu/faculty-profiles/kidwell-kelley.html), [Dr. Thomas Braun](https://sph.umich.edu/faculty-profiles/braun-thomas.html) 
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+## Tips for Michigan students in biostatistics
+
+- Consider participating in a [SIBS](https://www.nhlbi.nih.gov/node-general/summer-institute-biostatistics) program before applying.   
+    + If you're already at Michigan, get involved with the [Big Data Summer Institute (BDSI)](https://sph.umich.edu/bdsi/) as a current student coordinator. It is rewarding and fun!   
+- Be comfortable with coding in R or SAS.     
+- Make sure you have hobbies and a support system outside of your graduate program.   
+
+## Articles and News
+
+- [2020 Virtual Graduation](https://www.youtube.com/watch?v=uyh54EVLMi4&feature=youtu.be&fbclid=IwAR0QLGLehr4JZBGLnGzj82nu5Lmm3n39NIK2tdqHUQHhFCd0UAyUR5F1dpQ)   
+- [Richard G. Cornell Award and 2019 UM Biostatistics Highlights](https://sph.umich.edu/biostat/biostat_2019review.html?fbclid=IwAR1-8CeuFy11hGwy5ZcSNtBDLqSTwUnp4yqU8UzaQn5C3E_7BLHH_ramunw)

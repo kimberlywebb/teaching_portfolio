@@ -1,0 +1,62 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'agtc.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Advanced Graduate Teaching Cohort, Cornell University
+
+**Role:** Co-creator and Co-Facilitator, with [Rink Tacoma-Fogal, Ph.D.](https://cals.cornell.edu/rinske-rink-tacoma-fogal) (Dr. Tacoma-Fogal was a graduate student during program development and facilitation)    
+**Advisor:** [Derina Samuel, Ph.D.](https://teaching.cornell.edu/person/derina-samuel)  
+**Term:** Spring 2023   
+**Program Level:** Graduate  
+**Number of Participants:** 20  
+
+</div>
+
+\noindent
+**Program Description:** Graduate students with an interest in teaching were invited to explore resources and build community within a cohort of graduate teaching assistants by applying to join the [“Advanced Graduate Teaching Cohort”](https://teaching.cornell.edu/advanced-graduate-teaching-cohort) (AGTC) program. The program offered the selected group of participants an opportunity to participate in a diverse graduate student teaching community, develop their individual teaching skills, and discuss effective and inclusive teaching practices.
+
+\vspace{1em}
+
+\noindent
+**Program Components:** This program consisted of two in-person cohort sessions. The first 3-hour, hands-on session consisted of three parts: (1) a workshop on evidence-based inclusive teaching, (2) a group discussion on challenges and solutions for TAs, and (3) independent work on an individual development plan (IDP). The second 2-hour, discussion-based session consisted of two parts: (1) group discussion on the value of a high-structure classroom, based on a chapter from ["Inclusive Teaching" by Kelly A. Hogan and Viji Sathy](https://wvupressonline.com/inclusive-teaching) and (2) group discussion on the IDP. Both sessions were evaluated through anonymous surveys completed by the AGTC members.  
+
+\vspace{1em}
+
+\noindent
+**My role:** As a co-creator and co-facilitator of the AGTC program, Dr. Tacoma-Fogal and I had the following responsibilities:  
+
+- Write a [Belonging at Cornell Mini-Grant](ttps://diversity.cornell.edu/belonging/belonging-cornell-grant-program/belonging-cornell-mini-grants) proposal, requesting funding for the AGTC.   
+- Develop budget for all program costs.   
+- Create AGTC marketing and branding* materials.   
+- Advertise AGTC program to relevant departments, offices, and student organizations.   
+- Create AGTC application and web portal.   
+- Create rubric and selection criteria for AGTC applications.   
+- Read all AGTC applications and select participants.   
+- Create AGTC Session 1 program activities.  
+- Create Individual Development Plan (IDP) document* and associated materials*.   
+- Create AGTC Session 2 program activities.   
+- Facilitate Session 1 and 2 of the AGTC.   
+- Create post-session evaluation surveys for Session 1 and Session 2.   
+- Write final evaluation of the AGTC program.  
+
+*Marked items were completed independently.
+
+\noindent
+**Program Outcomes:** The AGTC program received positive feedback in both the Session 1 and Session 2 surveys. AGTC participants also continued to engage in teaching and mentorship opportunities after completion of the AGTC program. For instance, the AGTC led to strong interest in the CTI Graduate Teaching Fellows program, where CTI leaders reported one of the largest and strongest groups of applicants in program history – including numerous AGTC members. The success of the AGTC program was noticed by the CTI, which is planning on offering the AGTC program annually.
+
+\vspace{1em}
+
+\noindent
+**Sample materials:**  
+
+- [AGTC Individual Development Plan worksheet](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/AGTC_Individual_Development_Plan.pdf?raw=true)
+- [AGTC Final Report](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/AGTC_final_report.pdf?raw=true)
