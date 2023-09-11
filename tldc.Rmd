@@ -26,7 +26,7 @@ output:
 \vspace{1em}
 
 \noindent
-**Course Components:** This was an asychronous course comprised of five modules. Course participation was evaluated in group discussions within [Cornell's Center for Teaching Innovation Graduate Teaching Fellows Program](https://teaching.cornell.edu/cti-graduate-teaching-fellowship).
+**Course Components:** This was an asynchronous course comprised of five modules. Course participation was evaluated in group discussions within [Cornell's Center for Teaching Innovation Graduate Teaching Fellows Program](https://teaching.cornell.edu/cti-graduate-teaching-fellowship).
 
 
 ### Discussion Facilitator
