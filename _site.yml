@@ -1,7 +1,7 @@
 name: "kim-hochstedler"
 output_dir: "docs"
 navbar:
-  title: "Kim Hochstedler Webb"
+  title: "Kim Hochstedler Webb - Teaching Portfolio"
   left:
     - text: "Home"
       href: index.html
