@@ -22,7 +22,7 @@ output:
 </div>
 
 \noindent
-**Course Description:** Students will learn to develop and use statistical methods to analyze data arising from a wide variety of applications. Students should learn to apply methodologies which including descriptive statistics, point and interval estimation, hypothesis testing, inference for a single population, comparisons between two populations, one- and two-way analysis of variance, comparisons among population means, analysis of categorical data, and correlation and regression analysis.
+**Course Description:** Students will learn to develop and use statistical methods to analyze data arising from a wide variety of applications. Students should learn to apply methodologies including descriptive statistics, point and interval estimation, hypothesis testing, inference for a single population, comparisons between two populations, one- and two-way analysis of variance, comparisons among population means, analysis of categorical data, and correlation and regression analysis.
 
 \vspace{1em}
 
