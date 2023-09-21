@@ -23,7 +23,7 @@ output:
 \vspace{1em}
 
 \noindent
-**Course Components:** This class is designed to meet twice a week, for interactive lectures on statistical methodologies. The class will also include for smaller lab sections once a week. Typically, these lab sections of code demonstrations and problem-solving related to the previous lecture's content. Students will be assessed via weekly lab assignments completed in R as well as a lab exam, a poster presentation, and an oral presentation of an R Shiny application. 
+**Course Components:** This class is designed to meet twice a week, for interactive lectures on statistical methodologies. The class will also include for smaller lab sections once a week. These lab sections consist of code demonstrations and problem-solving related to the previous lecture's content. Students will be assessed via weekly lab assignments completed in R as well as a lab exam, a poster presentation, and an oral presentation of an R Shiny application. 
 
 \noindent
 **Sample materials:**  
