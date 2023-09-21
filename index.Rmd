@@ -30,4 +30,4 @@ Please find the following components of my teaching portfolio in the tabs on thi
 - Program development
 - Course development
 
-A PDF version of my teaching portfolio is available for download [here](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/49cc6de2e2959c9021469008367dc320a3533b6a/KAH_Webb_TeachingPortfolio.pdf?raw=true). 
+A PDF version of my teaching portfolio is available for download [here](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/bbea8d4174b269d884ae9be5c22eb9fe6002347f/KAH_Webb_TeachingPortfolio.pdf?raw=true). 
