@@ -1,0 +1,22 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'ta_award.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Outstanding Graduate Teaching Assistant in the Department of Statistics and Data Science, Cornell University
+
+**Award:** Outstanding Graduate Teaching Assistant in the Department of Statistics and Data Science    
+**Term:** 2020 - 2021   
+**Courses taught during award term:** Statistical Methods I and Biological Statistics II
+\vspace{1em}
+
+\noindent
+**Award Description:** Each year, the College of Agriculture and Life Sciences (CALS) selects one graduate TA from each department to receive an outstanding TA award. Selections are made via recommendations from faculty members and students. The award recognizes TA competence, responsibility, and dedication to Cornell CALS instructional programs.
