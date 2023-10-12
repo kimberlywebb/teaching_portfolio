@@ -34,4 +34,4 @@ output:
 \noindent
 **Sample materials:** I created a workshop on the "Roles and responsibilities of CTI Fellows" as part of the Fall 2023 CTI Fellows training. The workshop included a "jigsaw" group activity, where Fellows first learned about a new topic from a Lead Fellow, and then shared their knowledge with a new group. The jigsaw activity worksheet is provided below. 
 
-- [Roles and responsibilities of CTI Graduate Teaching Fellows jigsaw activity](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/01f5f68294a8f4a3b9d3252ae07e9eba458352f6/CourseDesign_Jamboard.pdf?raw=true)
+- [Roles and responsibilities of CTI Graduate Teaching Fellows jigsaw activity](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/68516eb32806afacc5f6457f9b4a3b09ec0c02ab/CTI_Jigsaw.pdf?raw=true)
