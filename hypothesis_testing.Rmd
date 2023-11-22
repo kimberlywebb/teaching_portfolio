@@ -1,0 +1,51 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'hypothesis_testing.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+## Lesson Plan - Introduction to Hypothesis Testing
+
+**Course Level:** Introductory undergraduate (or graduate)  
+**Number of Students:** $\sim$ 10-50  
+**Class Time:** 50 minutes
+
+</div>
+
+\noindent
+**Lesson Plan Description:** This lesson is designed to introduce students to the process of and intuition behind hypothesis testing through a case study and active learning group activity. Students will also practice writing statistical hypotheses as sentences and using symbolic representations. Before this lesson, students should be able to compute basic descriptive statistics and should be familiar with the concepts of population parameters and sampling distributions. Knowledge of confidence intervals is not required. Specific procedures for a hypothesis test and quantities such as test statistics, null distributions, and p-values would be covered in later class periods.
+
+\vspace{1em}
+
+\noindent
+**Learning goals:** By the end of this class session, students will be able to:
+
+1. Specify statistical hypotheses to test, given a word problem. 
+2. Describe the process of hypothesis testing. 
+
+\vspace{1em}
+
+\noindent
+**Notes to the instructor:** 
+
+- During this lesson, I project the "Blank Slides" using my iPad and annotate them with the class. Annotations are available in the "Filled Slides" file.
+- The group work component of this lesson is optimized for groups of 3 students. Groups of size 2-4 would also work well. 
+- The "Backstage Agenda" document provides an instructor guide to running the lesson, including timing and question cues. 
+- If you use these materials in your class, please cite me. Please also let me know how it went! I'm always looking for things to improve. 
+
+
+\noindent
+**Lesson materials:**  
+
+- [Slides - Blank](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/0ff65bc83cda7b2e79299b045cf442d0fa48c570/KAH_Webb_IntroHypothesisTesting_Slides.pdf?raw=true)
+- [Slides - Filled](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/0ff65bc83cda7b2e79299b045cf442d0fa48c570/KAH_Webb_IntroHypothesisTesting_SlidesFilled.pdf?raw=true)
+- [Handout - Blank](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/0ff65bc83cda7b2e79299b045cf442d0fa48c570/KAH_Webb_IntroHypothesisTesting_Handout.pdf?raw=true)
+- [Handout - Filled](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/0ff65bc83cda7b2e79299b045cf442d0fa48c570/KAH_Webb_IntroHypothesisTesting_HandoutFilled.pdf?raw=true)
+- [Backstage Agenda](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/0ff65bc83cda7b2e79299b045cf442d0fa48c570/KAH_Webb_IntroHypothesisTesting_BackstageAgenda.pdf?raw=true) 

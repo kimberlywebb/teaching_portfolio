@@ -47,6 +47,10 @@ navbar:
           href: stat_graphics.html
         - text: "Statistics for Future Presidents"
           href: stat4prez.html
+    - text: "Lesson Plans"
+      menu:
+        - text: "Introduction to Hypothesis Testing"
+          href: hypothesis_testing.html
     - text: "Recognition"
       menu:
         - text: "Outstanding Graduate Teaching Assistant"
