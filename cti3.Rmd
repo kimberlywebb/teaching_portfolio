@@ -17,7 +17,7 @@ output:
 
 **My role:** Each year, one Lead Graduate Teaching Fellow is invited to return to the program in their third year as the Senior Lead Teaching Fellow. In this role, I will complete all of the responsibilities associated with my previous role as a Lead Graduate Teaching Fellow. In addition, I have the following responsibilities:
 
-- Lead an information session for the CTI Fellows program.   
+- Lead an information session on the CTI Fellows program.   
 - Serve on the CTI Fellows selection committee (review applications and conduct interviews for all applicants).    
 - Plan and facilitate CTI Fellows training in the Fall and Spring.    
 - Plan the [graduate student and postdoctoral scholar teaching workshop program](https://teaching.cornell.edu/get-set-program).       
@@ -26,12 +26,16 @@ output:
 - Review draft workshops from all Fellows.   
 - Coordinate all communication and announcements within the CTI Fellows group.  
 - Coordinate quarterly newsletters for the entire teaching community at Cornell.  
+- Organize a university-wide teaching conference. 
+- Collect and analyze feedback on the CTI Fellows program from workshop participants and from current fellows. 
+- Make recommendations for future iterations of the CTI Fellows program.
 \vspace{1em}
 
 \noindent
-**Workshops created and facilitated:** "Steps to developing a strong workshop", "Roles and responsibilities of CTI Fellows", "Role of TAs in cultivating an inclusive classroom", "Effective grading and feedback", "Essentials of teaching: Peer review"
+**Workshops created and facilitated:** "Steps to developing a strong workshop", "Roles and responsibilities of CTI Fellows", "Role of TAs in cultivating an inclusive classroom", "Effective grading and feedback", "Essentials of teaching: Peer review", "Developing your teaching portfolio", "Refining and editing your diversity statement"
 
 \noindent
 **Sample materials:** I created a workshop on the "Roles and responsibilities of CTI Fellows" as part of the Fall 2023 CTI Fellows training. The workshop included a "jigsaw" group activity, where Fellows first learned about a new topic from a Lead Fellow, and then shared their knowledge with a new group. The jigsaw activity worksheet is provided below. 
 
-- [Roles and responsibilities of CTI Graduate Teaching Fellows jigsaw activity](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/68516eb32806afacc5f6457f9b4a3b09ec0c02ab/CTI_Jigsaw.pdf?raw=true)
+- I created a workshop on the "Roles and responsibilities of CTI Fellows" as part of the Fall 2023 CTI Fellows training. The workshop included a "jigsaw" group activity, where Fellows first learned about a new topic from a Lead Fellow, and then shared their knowledge with a new group. The jigsaw activity worksheet is provided [here](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/68516eb32806afacc5f6457f9b4a3b09ec0c02ab/CTI_Jigsaw.pdf?raw=true).
+- [Slides](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/af3c146d2433ba824b8f74c3755c8bffbf358cb0/Developing%20a%20Teaching%20Portfolio%20-%20workshop%20slides.pdf?raw=true) and a [worksheet](https://github.com/kimberlywebb/teaching_portfolio_docs/blob/af3c146d2433ba824b8f74c3755c8bffbf358cb0/TeachingPortfolio_Worksheet.pdf?raw=true) from the "Developing your teaching portfolio" workshop. 
